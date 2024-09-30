@@ -424,6 +424,7 @@ details[open] .faq-answer {
 .footer-col ul li a {
    color: #fff;
    text-decoration: none;
+   transition: color 0.3s ease;
 }
 
 .footer-col ul li a:hover {
@@ -447,6 +448,7 @@ details[open] .faq-answer {
    color: #fff;
    margin-right: 15px;
    font-size: 1.5rem;
+   transition: color 0.3s ease;
 }
 
 .social-links a:hover {
