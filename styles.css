@@ -416,6 +416,10 @@ details[open] .faq-answer {
    margin-bottom: 10px;
 }
 
+.footer-col h3 span {
+   color: #fff;
+}
+
 .footer-col ul {
    list-style: none;
    padding: 0;
