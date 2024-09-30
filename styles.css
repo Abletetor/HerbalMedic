@@ -594,6 +594,10 @@ textarea {
       justify-content: center;
    }
 
+   textarea {
+      width: 57%;
+   }
+
    .footer-owner {
       margin-top: 30px;
    }
