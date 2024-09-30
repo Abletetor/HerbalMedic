@@ -597,4 +597,8 @@ textarea {
    .footer-owner {
       margin-top: 30px;
    }
+
+   .footer-owner p {
+      font-size: 12px;
+   }
 }
